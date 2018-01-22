@@ -1,0 +1,173 @@
+html, body, div, span, blockquote {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ font: inherit;
+ font-size: 100%;
+ vertical-align: baseline;
+}
+
+html {
+ line-height: 1;
+}
+
+q:before, q:after, blockquote:before, blockquote:after {
+ content: "";
+ content: none;
+}
+
+a {
+ text-decoration: none;
+ color: #50763E;
+}
+
+a img {
+ border: none;
+}
+
+img {
+ display: inline;
+ max-width: 100%;
+}
+
+html,body {
+ height: 100%;
+ font-family: 'Open Sans', sans-serif;
+ background: #224411;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #eef;
+}
+
+.landing-pane {
+ height: calc(100% - 4rem);
+ border-bottom: 1px solid #224411;
+ color: #fff;
+ line-height: 1.5;
+ text-align: center;
+}
+
+.vcenter {
+ text-align: center;
+}
+
+.vcenter:before {
+ content: '';
+ display: inline-block;
+ height: 100%;
+ vertical-align: middle;
+}
+
+.vcenter-target {
+ display: inline-block;
+ vertical-align: middle;
+}
+
+.down {
+ position: absolute;
+ vertical-align: bottom;
+ left: 50%;
+ bottom: 4.2rem;
+}
+
+.vcenter a {
+ margin:2px;
+ padding: 1rem;
+ border-radius: 0.5rem;
+ color: #eef;
+}
+
+a.icon {
+ color: #eef;
+}
+
+a.icon:hover {
+ background: rgba(0, 0, 0, 0.1);
+}
+
+.content {
+ padding: 0 1.3rem;
+ background: #071600;
+}
+
+.content .wrapper {
+ padding: 4rem 0;
+ margin: 0 auto;
+ max-width: 600px;
+ line-height: 1.4;
+ color: #eef;
+}
+
+.content .wrapper h1 {
+ margin-top: 4rem;
+ margin-bottom: 0.5rem;
+ font-size: 2.2rem;
+}
+
+.content .wrapper blockquote {
+ padding: 0 2rem;
+ margin-bottom: 2rem;
+ font-family: 'Open Sans', sans-serif;
+ font-style: italic;
+}
+
+.content .wrapper blockquote p:last-child {
+ text-align: right;
+ font-style: none;
+}
+
+.content .wrapper p {
+ font-size:1.4rem;
+ margin:1.4rem 0;
+}
+
+.content .wrapper ul {
+ padding-left: 1rem;
+}
+
+.content .wrapper a:visited {
+ color: #355C22;
+}
+
+/** makes sure site shows up correctly on all devices **/
+
+@media (max-width: 768px) {
+ .landing-pane .title {
+  font-size: 3rem;
+ }
+ .landing-pane .links {
+  font-size: 1.5rem;
+ }
+}
+
+@media (min-width: 768px) {
+ .landing-pane .title {
+  font-size: 4rem;
+ }
+ .landing-pane .links {
+  font-size: 1.75rem;
+ }
+}
+
+@media (min-width: 992px) {
+ .landing-pane .title {
+  font-size: 5rem;
+ }
+ .landing-pane .links {
+  font-size: 2rem;
+ }
+}
+
+@media (min-width: 1200px) {
+ .landing-pane .title {
+  font-size: 6rem;
+ }
+ .landing-pane .links {
+  font-size: 2.5rem;
+ }
+}
