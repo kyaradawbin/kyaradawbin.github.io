@@ -1,3 +1,12 @@
+/*
+ *  color information:
+ *    top: #1f1c38
+ *    bottom: #181624
+ *    highlight: #92b0bf
+ *    text: #eef
+ */
+
+
 html, body, div, span, blockquote {
  margin: 0;
  padding: 0;
@@ -18,7 +27,7 @@ q:before, q:after, blockquote:before, blockquote:after {
 
 a {
  text-decoration: none;
- color: #50763E;
+ color: #92b0bf;
 }
 
 a img {
@@ -33,7 +42,7 @@ img {
 html,body {
  height: 100%;
  font-family: 'Open Sans', sans-serif;
- background: #224411;
+ background: #1f1c38;
 }
 
 table {
@@ -46,8 +55,8 @@ table, th, td {
 
 .landing-pane {
  height: calc(100% - 4rem);
- border-bottom: 1px solid #224411;
- color: #fff;
+ border-bottom: 1px solid #1f1c38;
+ color: #eef;
  line-height: 1.5;
  text-align: center;
 }
@@ -92,7 +101,7 @@ a.icon:hover {
 
 .content {
  padding: 0 1.3rem;
- background: #071600;
+ background: #181624;
 }
 
 .content .wrapper {
@@ -131,7 +140,7 @@ a.icon:hover {
 }
 
 .content .wrapper a:visited {
- color: #355C22;
+ color: #b4d4d8;
 }
 
 /** makes sure site shows up correctly on all devices **/
