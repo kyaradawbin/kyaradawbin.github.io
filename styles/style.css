@@ -54,7 +54,7 @@ table, th, td {
 }
 
 .landing-pane {
- height: calc(100% - 4rem);
+ height: calc(100% - 10rem);
  border-bottom: 1px solid #1f1c38;
  color: #eef;
  line-height: 1.5;
@@ -75,13 +75,6 @@ table, th, td {
 .vcenter-target {
  display: inline-block;
  vertical-align: middle;
-}
-
-.down {
- position: absolute;
- vertical-align: bottom;
- left: 50%;
- bottom: 4.2rem;
 }
 
 .vcenter a {
@@ -105,7 +98,7 @@ a.icon:hover {
 }
 
 .content .wrapper {
- padding: 4rem 0;
+ padding: 0.5rem 0;
  margin: 0 auto;
  max-width: 600px;
  line-height: 1.4;
@@ -135,8 +128,14 @@ a.icon:hover {
  margin:1.4rem 0;
 }
 
-.content .wrapper ul {
+.content .wrapper .post {
  padding-left: 1rem;
+ list-style-type: none;
+}
+
+.posts {
+  list-style-type: none;
+  padding-left: 2rem;
 }
 
 .content .wrapper a:visited {

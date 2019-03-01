@@ -1,0 +1,8 @@
+# site settings
+name: Hello, World!
+description: Kyara Dawbin - An Overview
+
+# build settings
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+root: /
