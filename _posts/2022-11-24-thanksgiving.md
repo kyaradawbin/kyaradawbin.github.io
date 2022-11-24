@@ -1,10 +1,10 @@
 When I think back about my past 22 years, there are some years that have slipped from memory and there are other years where it seems that everything happened. This has been a year that everything happened. And despite the challenges, I'm thankful for how far I've made it.
 
-This was a very intense year to buy a house. I'm very thankful for the resources available on the Internet and the advice of people who have been in similar situations before. As I look back on my house-buying journey, I am thankful for the people who helped turn my crypto and r/wallstreetbets earnings into a deal that worked for everyone. Everything happened at exactly the right time.
+This was a very intense year to buy a house. I'm very thankful for the resources available on the Internet and the advice of people who have been in similar situations before. As I look back on my house-buying journey, I am thankful for the people who helped turn magic Internet money (cryptocurrency and r/wallstreetbets earnings) into a deal that worked for everyone. Everything happened at exactly the right time.
 
 When moving in, I had much more unpacking to do than I had anticipated. I'm thankful for the friends and family who have supported me this year - you've helped me get past so much heavy shit. Some things I didn't even realize was weighing on me… like getting my birth certificate. I truly appreciate the people who have shown for me up in many different ways - your kindness and patience isn't forgotten. You've given me the courage I've needed this year. I'm grateful for all friends (old and new) who have inspired me and kept me going.
 
-Being in a 122-year old house, I'm constantly surrounded by the work of those who came before me. I'm inspired by Florence Brooks Whitehouse, whose father built my house, and her contributions to the suffragist movement. Voting this year took on a new meaning, and I'm thankful for the opportunity to use my voice like so many before me. 
+Living in a 122-year-old house, I'm constantly surrounded by the work of those who came before me. I'm inspired by Florence Brooks Whitehouse, whose father built my house, and her contributions to the suffragist movement. Voting this year took on a new meaning, and I'm thankful for the opportunity to use my voice. 
 
 Finally, I'm thankful for the lessons I've learned while gardening and seeing resilience in nature around me. Despite all else, we still grow. Thank you for making it this far.
 
